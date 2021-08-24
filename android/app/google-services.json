@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "302502903218",
+    "firebase_url": "https://marriageapp-f806f.firebaseio.com",
+    "project_id": "marriageapp-f806f",
+    "storage_bucket": "marriageapp-f806f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302502903218:android:d2fb775c4519a51d3638ab",
+        "android_client_info": {
+          "package_name": "com.umatch.marriageapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302502903218-o0u4q0o2g1au3rq5cqfon72stqbdou11.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcfaD2ZOnlgI4161zhyNdXM254mKotmyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302502903218-o0u4q0o2g1au3rq5cqfon72stqbdou11.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "302502903218-749pnjh6i3ecqbvjg2rbdmm8b5fudpdt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.1umatch.marriageapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>302502903218-749pnjh6i3ecqbvjg2rbdmm8b5fudpdt.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.302502903218-749pnjh6i3ecqbvjg2rbdmm8b5fudpdt</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAu4YoOo0HYVgAJrEm9PSmZKJvH13l77KU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>302502903218</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.1umatch.marriageapp</string>
+	<key>PROJECT_ID</key>
+	<string>marriageapp-f806f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>marriageapp-f806f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:302502903218:ios:c2bebf66f6b140683638ab</string>
+	<key>DATABASE_URL</key>
+	<string>https://marriageapp-f806f.firebaseio.com</string>
+</dict>
+</plist>
